@@ -1,6 +1,9 @@
 # 💫 About Me:
-❤️Coding<br>🎓 BCS student<br>📍Pepsicola, Kathmandu<br>💬 [Need to talk?]<br>Find me on Discord: thekindsage<br>
+🎓 BCS student (AI)<br>📍Pepsicola, Kathmandu<br> ❤️Coding<br>
 
+![Coding_Cat](https://github.com/user-attachments/assets/b5902115-a0d5-4542-9185-28083502888c)
+
+💬 [Need to talk?]<br>Find me on Discord: thekindsage<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kind_sage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/royal-rohit-chand) 
