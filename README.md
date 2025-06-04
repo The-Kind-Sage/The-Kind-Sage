@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Hello World! It's me Rohit👋
 🎓 BCS student (AI)<br>📍Pepsicola, Kathmandu<br> ❤️Coding<br>
 
 ![Coding_Cat](https://github.com/user-attachments/assets/b5902115-a0d5-4542-9185-28083502888c)
