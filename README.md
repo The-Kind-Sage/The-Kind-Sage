@@ -2,7 +2,7 @@
 
 <div align="center">
 <br>
-🎓 BCS student (AI)<br>
+🎓 BCS student (AI- Taylor's University)<br>
 📍 Pepsicola, Kathmandu<br>
 ❤️ Coding<br><br>
 
