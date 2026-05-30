@@ -52,9 +52,8 @@ Find me on Discord: thekindsage
 <h2 align="center"> 📊 GitHub Stats </h2>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=The-Kind-Sage&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> <br>
-![](https://nirzak-streak-stats.vercel.app/?user=The-Kind-Sage&theme=dark&hide_border=false)<br/> <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kind-Sage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=The-Kind-Sage&theme=highcontrast)<br/> <br>
+
 
 <sub>Note: Some languages might not appear due to private repositories or cache delays.</sub>
 
