@@ -65,7 +65,7 @@ Find me on Discord: thekindsage
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 <div align="center">
 
-[![](https://github-profile-trophy-fork-two.vercel.app/?username=the-kind-sage)
+[![](https://github-profile-trophy-fork-two.vercel.app/?username=the-kind-sage&theme=dark)
 </div>
 
 ---
