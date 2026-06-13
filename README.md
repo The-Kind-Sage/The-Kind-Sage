@@ -2,7 +2,7 @@
 
 <div align="center">
 <br>
-🎓 BCS student (Taylor's University)<br>
+🎓 BCS student specialization in AI (Taylor's University)<br>
 📍 Kathmandu, Nepal<br>
 ❤️ Coding<br><br>
 
@@ -65,8 +65,7 @@ Find me on Discord: thekindsage
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=The-Kind-Sage&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=the-kind-sage&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
