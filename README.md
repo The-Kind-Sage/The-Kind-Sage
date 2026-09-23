@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/royal-rohit-chand) <br>
 <br>
 💬 Need to talk?<br>
-Find me on Discord: thekindsage
+Find me on Discord: moonlight__love
 
 
 </div>
