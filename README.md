@@ -52,17 +52,7 @@ Find me on Discord: thekindsage
 <h2 align="center"> 📊 GitHub Stats </h2>
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com?user=The-Kind-Sage&theme=highcontrast)<br/> <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=The-Kind-Sage&theme=github_dark)<br/> <br>
-
-
-<sub>Note: Some languages might not appear due to private repositories or cache delays.</sub>
-
-</div>
-
----
-<br>
-
+![](https://github-readme-streak-stats.herokuapp.com?user=The-Kind-Sage&theme=highcontrast)
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=The-Kind-Sage&icon=0&color=0)](https://visitcount.itsvg.in)
