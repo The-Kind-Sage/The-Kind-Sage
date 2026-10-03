@@ -158,7 +158,8 @@
 
 <br/><br/>
 
-<img width="880" height="192" alt="snake-dark" src="https://github.com/user-attachments/assets/8ce60cd6-27e0-4f83-909f-dec06126e4cc" />
+<img width="800" height="150" alt="snake-dark (1)" src="https://github.com/user-attachments/assets/a4ad4415-9928-4ede-a2f6-42eca7a1f0a4" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
