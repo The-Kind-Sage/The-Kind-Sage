@@ -6,7 +6,7 @@
 📍 Kathmandu, Nepal<br>
 ❤️ Data | AI & ML<br><br>
 
-<img src="https://github.com/user-attachments/assets/b5902115-a0d5-4542-9185-28083502888c" alt="profile-pic" /><br><br>
+<img src="https://github.com/user-attachments/assets/b5902115-a0d5-4542-9185-28083502888c" alt="profile-pic" />
 
 </div>
 
@@ -15,15 +15,15 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kind_sage)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/royal-rohit-chand) <br>
-<br>
-💬 Need to talk?<br>
+
+💬 Need to talk?
 Find me on Discord: moonlight__love
 
 
 </div>
 
 ---
-<br>
+
 <h2 align="center"> 💻 Tech Stack </h2>
 <div align="center">
 
@@ -48,7 +48,6 @@ Find me on Discord: moonlight__love
 </div>
 
 ---
-<br>
 <h2 align="center"> 📊 GitHub Stats </h2>
 <div align="center">
 
